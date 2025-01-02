@@ -10,12 +10,12 @@ title: Home
         LEARN TO HACK
       </h1>
       <p class="lead my-3">
-        Hacker101 is a free class for web security. Whether you&#8217;re a
+        Hackerone is a free class for web security. Whether you&#8217;re a
         programmer with an interest in bug bounties or a seasoned security
         professional, Hacker101 has something to teach you.
       </p>
       <a class="btn btn-primary" href="/start-here">
-        Start hacking!
+        Start hacking now!
       </a>
     </div>
     <div class="col-md-5 offset-md-1 py-4">
